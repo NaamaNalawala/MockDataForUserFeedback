@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace InsertDataToDatabase
+{
+    internal class NamesData
+    {
+        public static string[] Names { get; set; } = {"Jeff", "Mia", "Bisak", "Niya", "Aisha", "Ishika", "Mark", "Alexi"
+                , "Beryl"
+                , "Randal"
+                , "Kiley"
+                , "Early"
+                , "Iggy"
+                , "Giana"
+                , "Ursola"
+                , "Casie"
+                , "Corbett"
+                , "Agace"
+                , "Arabela"
+                , "Ginni"
+                , "Tamarra"
+                , "Kathleen"
+                , "Bartholemy"
+                , "Inigo"
+                , "Hanna"
+                , "Olin"
+                , "Minta"
+                , "Moise"
+                , "Damien"
+                , "Vassili"
+                , "Virgilio"
+                , "Lise"
+                , "Devy"
+                , "Farleigh"
+                , "Demetre"
+                , "Udell"
+                , "Goldia"
+                , "Sheffy"
+                , "Guenna"
+                , "Carrissa"
+                , "Helli"
+                , "Federica"
+                , "Jefferson"
+                , "Byram"
+                , "Ezri"
+                , "Micky"
+                , "Griswold"
+                , "Malchy"
+                , "Timoteo"
+                , "Gratiana"
+                , "Cloe"
+                , "Fowler"
+                , "Whitaker"
+                , "Pip"
+                , "Rivalee"
+                , "Helsa"
+                , "Esme"
+                , "Drew"
+            };
+    }
+}
